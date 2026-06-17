@@ -42,7 +42,7 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 
 2. Buka phpMyAdmin → buat database `todo_pbd`
 
-3. Jalankan query SQL berikut secara berurutan di phpMyAdmin untuk membuat tabel, view, function, trigger, dan data awal.
+3. Buat struktur database `todo_pbd` secara manual di phpMyAdmin (tabel, view, function, trigger, dan seed data sesuai dokumentasi video).
 
 4. Buat file `config/db.php`:
 ```php
