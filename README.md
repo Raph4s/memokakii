@@ -2,7 +2,7 @@
 
 Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, dan Bootstrap 5 sebagai Final Project mata kuliah Basis Data.
 
-> Memokakii berasal dari kata "Memo" dan bahasa Jepang 書き (*kaki*) yang berarti "menulis" — secara harfiah berarti "menulis catatan".
+> Memokakii berasal dari kata "Memo" dan bahasa Jepang 書き (*kaki*) yang berarti "menulis", secara harfiah berarti "menulis catatan".
 
 ## Fitur
 
