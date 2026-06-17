@@ -27,6 +27,10 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 ![Sign In Dark](screenshots/darksignin.png)
 ![Register Dark](screenshots/darkregister.png)
 
+### Mobile
+![Mobile Dashboard](screenshots/mobilelanding.png)
+![Mobile Landing](screenshots/mobiledark.png)
+
 ### Features
 ![Add Task](screenshots/add.png)
 ![Edit Task](screenshots/edit.png)
