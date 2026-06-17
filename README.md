@@ -1,10 +1,10 @@
-# 🗂️ Memokakii
+# Memokakii
 
 Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, dan Bootstrap 5 sebagai Final Project mata kuliah Basis Data.
 
 > Memokakii berasal dari kata "Memo" dan bahasa Jepang 書き (*kaki*) yang berarti "menulis" — secara harfiah berarti "menulis catatan".
 
-## ✨ Fitur
+## Fitur
 
 - Autentikasi (Register, Login, Logout) dengan password terenkripsi
 - CRUD Tugas (Tambah, Lihat, Edit, Hapus) via Bootstrap Modal
@@ -15,7 +15,7 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 - Dark mode
 - Floating audio player
 
-## 🗄️ Implementasi Database
+## Implementasi Database
 
 | Komponen | Jumlah | Detail |
 |----------|--------|--------|
@@ -25,7 +25,7 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 | Function | 2 | persen_selesai(), label_prioritas() |
 | Trigger | 2 | after_task_insert, after_task_update |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - PHP 8+
 - MySQL 8
@@ -33,7 +33,7 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 - Bootstrap Icons
 - Laragon (local development)
 
-## ⚙️ Cara Install
+## Cara Install
 
 1. Clone repo ini ke folder Laragon:
 ```bash
@@ -62,7 +62,7 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 
 5. Buka browser: `http://localhost/memokakii`
 
-## 🔑 Akun Default
+## Akun Default
 
 | Email | Password |
 |-------|----------|
