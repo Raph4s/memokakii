@@ -15,6 +15,22 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 - Dark mode
 - Floating audio player
 
+## Screenshot
+
+### Light Mode
+![Landing Page](assets/screenshots/lightlanding.png)
+![Dashboard](assets/screenshots/lightdashboard.png)
+
+### Dark Mode
+![Landing Page Dark](assets/screenshots/darklanding.png)
+![Dashboard Dark](assets/screenshots/darkdashboard.png)
+![Sign In Dark](assets/screenshots/darksignin.png)
+![Register Dark](assets/screenshots/darkregister.png)
+
+### Features
+![Add Task](assets/screenshots/add.png)
+![Edit Task](assets/screenshots/edit.png)
+
 ## Implementasi Database
 
 | Komponen | Jumlah | Detail |
