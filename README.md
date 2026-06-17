@@ -18,18 +18,18 @@ Aplikasi manajemen tugas (To-Do List) berbasis web, dibangun dengan PHP, MySQL, 
 ## Screenshot
 
 ### Light Mode
-![Landing Page](assets/screenshots/lightlanding.png)
-![Dashboard](assets/screenshots/lightdashboard.png)
+![Landing Page](screenshots/lightlanding.png)
+![Dashboard](screenshots/lightdashboard.png)
 
 ### Dark Mode
-![Landing Page Dark](assets/screenshots/darklanding.png)
-![Dashboard Dark](assets/screenshots/darkdashboard.png)
-![Sign In Dark](assets/screenshots/darksignin.png)
-![Register Dark](assets/screenshots/darkregister.png)
+![Landing Page Dark](screenshots/darklanding.png)
+![Dashboard Dark](screenshots/darkdashboard.png)
+![Sign In Dark](screenshots/darksignin.png)
+![Register Dark](screenshots/darkregister.png)
 
 ### Features
-![Add Task](assets/screenshots/add.png)
-![Edit Task](assets/screenshots/edit.png)
+![Add Task](screenshots/add.png)
+![Edit Task](screenshots/edit.png)
 
 ## Implementasi Database
 
